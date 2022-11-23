@@ -1,2 +1,1 @@
-# horiseon-project
-Challenge 1
+# Code Refactor Starter Code
