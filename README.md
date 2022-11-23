@@ -1,4 +1,2 @@
 # Code Refactor Starter Code
 
-
-![]()
